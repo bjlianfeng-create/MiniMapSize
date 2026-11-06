@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: 小地图尺寸
+## Notes: 在「界面设置 - 插件」里调整小地图大小；命令 /mms
+## Author: 火药
+## Version: 1.1.0
+## X-AddonType: 界面增强
+## SavedVariables: MiniMapSizeDB
+MiniMapSize.lua

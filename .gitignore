@@ -1,0 +1,10 @@
+# 本地临时文件
+*.bak
+*.tmp
+*.zip
+*.rar
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
