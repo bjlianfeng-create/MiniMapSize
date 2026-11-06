@@ -2,6 +2,9 @@
 
 一个给《魔兽世界》用的轻量小地图尺寸调节插件：在「界面设置 → 插件」里拖滑块就能改大小，不需要记命令。
 
+> **直接下载**：[最新安装包（zip）](https://github.com/bjlianfeng-create/MiniMapSize/releases/latest)
+> 解压后把 `MiniMapSize` 文件夹放进 `World of Warcraft\_<版本目录>_\Interface\AddOns\` 即可。
+
 ## 功能
 
 - **滑块调节** 80 – 320（默认 140），拖动即时生效，登出后保留
